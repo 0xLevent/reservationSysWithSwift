@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyClTG6DAqjZ6nkCTfp3O9-dCWf-GInUgaM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696228073676</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>firstProject.reservationSys</string>
+	<key>PROJECT_ID</key>
+	<string>reservationsys-c390d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reservationsys-c390d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696228073676:ios:3d116cce8f6c941d2ff269</string>
+</dict>
+</plist>
